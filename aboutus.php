@@ -4,7 +4,6 @@
 		<?php echo $head; ?>
 	</head>
     <body>
-		
 		<?php echo $header; ?>
 	
 		<section class="spb_70">
