@@ -29,6 +29,8 @@
 									<a href="#tab5" data-toggle="tab"><i class="fa fa-angle-double-right" aria-hidden="true"></i> Privacy Policy</a>
 								</li>
 								
+								
+								
 							</ul>
 						</div>
 					</div>
