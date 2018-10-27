@@ -5,10 +5,6 @@
 	</head>
     <body>
 		<?php echo $header; ?>
-	    
-	    
-	    
-	
 		<section class="spb_70">
 			<div class="container">
 				<div class="row">
